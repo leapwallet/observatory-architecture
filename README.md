@@ -46,7 +46,7 @@ Here's _Observatory_'s [implementation](https://github.com/leapwallet/observator
 3. Change the directory:
 
    ```shell
-   cd notification-system-architecture
+   cd observatory-architecture
    ```
 
 4. Install the package manager:
